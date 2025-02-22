@@ -1,6 +1,6 @@
 let modInfo = {
 	name: "Prestige Tree Rewritten",
-	id: "ptr",
+	id: "tpt-rewrite-port",
 	author: "Jacorb",
 	pointsName: "points",
 	discordName: "PT Rewritten Server",
